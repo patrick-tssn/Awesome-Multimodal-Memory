@@ -9,7 +9,7 @@ This reading list is composed of three comprehensive parts:
 
 3. **External Multimodal Knowledge/Memory Augmentation**: Here, we delve into the use of memory as an external knowledge source. This external information serves as complementary data that can enhance the performance and capabilities of models by providing additional context and insights, thereby improving their overall effectiveness.
 
-
+🌟🌟🌟  Please feel free to make a PR if I missed something. 🌟🌟🌟 
 
 
 Table of Contents
