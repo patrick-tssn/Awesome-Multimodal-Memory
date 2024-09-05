@@ -73,8 +73,8 @@ Table of Contents
 ### 1.2 Video Context Modeling with Memory
 
 #### 1.2.1 Video Representation
+#transformer
 - Memory Consolidation Enables Long-Context Video Understanding `CVPR 2024`
-
 
 
 #### 1.2.2 Large Video Language Models
@@ -83,6 +83,7 @@ Table of Contents
 - MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding `CVPR 2024`
 - Streaming Long Video Understanding with Large Language Models `Arxiv 2024-05`
 - Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams `Arxiv 2024-06`
+
 #vertical category
 - OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning `Arxiv 2024-05`
 
@@ -120,9 +121,6 @@ Table of Contents
 
 #transformer
 - Glance and Focus: Memory Prompting for Multi-Event Video Question Answering `NeurIPS 2023`
-
-#state-space-model
-- SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering `Arxiv 2024-06`
 
 
 #### 1.2.6 Video Summarization
@@ -184,6 +182,7 @@ Table of Contents
 #### 1.2.9 Video Generation
 #RNN;LSTM;GRU
 - Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning `CVPR 2021`
+
 #memory network
 - MV-TON: Memory-based Video Virtual Try-on network `MM 2021`
 - Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose `TMM 2022`
