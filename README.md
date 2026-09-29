@@ -311,6 +311,7 @@ Table of Contents
 - AppAgent: Multimodal Agents as Smartphone Users `Arxiv 2023-12`
 - Multimodal Embodied Interactive Agent for Cafe Scene `Arxiv 2024-02`
 - OS-Copilot: Towards Generalist Computer Agents with Self-Improvement `Arxiv 2024-02`
+- [EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236) `Arxiv 2026-09` [[Code]](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)
 
 
 
